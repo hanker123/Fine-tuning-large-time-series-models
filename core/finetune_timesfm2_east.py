@@ -1,5 +1,5 @@
 """
-Times 2.0 微调脚本 - 适配 16GB 显存
+TimesFM 2.0 微调脚本 - 适配 16GB 显存
 使用 LoRA 方法微调 east_settlement 数据
 """
 
